@@ -49,3 +49,7 @@ private static int serverNum(int taskNum) {
     return serverNum;  
 }
 ```
+## 5. 运行
+1. 下载之后导入idea（File->Open->选择下载的项目文件）
+2. 右键单击jars文件夹里面的CloudSim jar包，点击Add As Library
+3. 分别运行SA文件夹和SABA文件夹里面的类即可。
